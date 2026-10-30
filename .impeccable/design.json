@@ -1,0 +1,454 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-30T14:17:17Z",
+  "title": "Design System: Nocturna",
+  "extensions": {
+    "colorMeta": {
+      "charcoal": {
+        "role": "neutral",
+        "displayName": "Charcoal",
+        "tonalRamp": [
+          "oklch(15% 0.004 286)",
+          "oklch(26% 0.004 286)",
+          "oklch(37% 0.004 286)",
+          "oklch(48% 0.004 286)",
+          "oklch(59% 0.004 286)",
+          "oklch(70% 0.004 286)",
+          "oklch(82% 0.004 286)",
+          "oklch(94% 0.004 286)"
+        ]
+      },
+      "panel": {
+        "role": "neutral",
+        "displayName": "Panel",
+        "tonalRamp": [
+          "oklch(15% 0.006 56)",
+          "oklch(26% 0.006 56)",
+          "oklch(37% 0.006 56)",
+          "oklch(48% 0.006 56)",
+          "oklch(59% 0.006 56)",
+          "oklch(70% 0.006 56)",
+          "oklch(82% 0.006 56)",
+          "oklch(94% 0.006 56)"
+        ]
+      },
+      "panel-deep": {
+        "role": "neutral",
+        "displayName": "Deep Panel",
+        "tonalRamp": [
+          "oklch(15% 0.002 17)",
+          "oklch(26% 0.002 17)",
+          "oklch(37% 0.002 17)",
+          "oklch(48% 0.002 17)",
+          "oklch(59% 0.002 17)",
+          "oklch(70% 0.002 17)",
+          "oklch(82% 0.002 17)",
+          "oklch(94% 0.002 17)"
+        ]
+      },
+      "answer-surface": {
+        "role": "neutral",
+        "displayName": "Answer Surface",
+        "tonalRamp": [
+          "oklch(15% 0.006 34)",
+          "oklch(26% 0.006 34)",
+          "oklch(37% 0.006 34)",
+          "oklch(48% 0.006 34)",
+          "oklch(59% 0.006 34)",
+          "oklch(70% 0.006 34)",
+          "oklch(82% 0.006 34)",
+          "oklch(94% 0.006 34)"
+        ]
+      },
+      "answer-selected": {
+        "role": "neutral",
+        "displayName": "Selected Surface",
+        "tonalRamp": [
+          "oklch(15% 0.023 50)",
+          "oklch(26% 0.023 50)",
+          "oklch(37% 0.023 50)",
+          "oklch(48% 0.023 50)",
+          "oklch(59% 0.023 50)",
+          "oklch(70% 0.023 50)",
+          "oklch(82% 0.023 50)",
+          "oklch(94% 0.014 50)"
+        ]
+      },
+      "copper": {
+        "role": "primary",
+        "displayName": "Copper",
+        "tonalRamp": [
+          "oklch(15% 0.034 61)",
+          "oklch(26% 0.058 61)",
+          "oklch(37% 0.058 61)",
+          "oklch(48% 0.058 61)",
+          "oklch(59% 0.058 61)",
+          "oklch(70% 0.058 61)",
+          "oklch(82% 0.041 61)",
+          "oklch(94% 0.014 61)"
+        ]
+      },
+      "primary-fill": {
+        "role": "primary",
+        "displayName": "Primary Fill",
+        "tonalRamp": [
+          "oklch(15% 0.034 63)",
+          "oklch(26% 0.058 63)",
+          "oklch(37% 0.058 63)",
+          "oklch(48% 0.058 63)",
+          "oklch(59% 0.058 63)",
+          "oklch(70% 0.058 63)",
+          "oklch(82% 0.041 63)",
+          "oklch(94% 0.014 63)"
+        ]
+      },
+      "copper-light": {
+        "role": "primary",
+        "displayName": "Light Copper",
+        "tonalRamp": [
+          "oklch(15% 0.034 66)",
+          "oklch(26% 0.059 66)",
+          "oklch(37% 0.068 66)",
+          "oklch(48% 0.068 66)",
+          "oklch(59% 0.068 66)",
+          "oklch(70% 0.068 66)",
+          "oklch(82% 0.041 66)",
+          "oklch(94% 0.014 66)"
+        ]
+      },
+      "button-surface": {
+        "role": "neutral",
+        "displayName": "Button Surface",
+        "tonalRamp": [
+          "oklch(15% 0.010 39)",
+          "oklch(26% 0.010 39)",
+          "oklch(37% 0.010 39)",
+          "oklch(48% 0.010 39)",
+          "oklch(59% 0.010 39)",
+          "oklch(70% 0.010 39)",
+          "oklch(82% 0.010 39)",
+          "oklch(94% 0.010 39)"
+        ]
+      },
+      "progress-track": {
+        "role": "neutral",
+        "displayName": "Progress Track",
+        "tonalRamp": [
+          "oklch(15% 0.010 43)",
+          "oklch(26% 0.010 43)",
+          "oklch(37% 0.010 43)",
+          "oklch(48% 0.010 43)",
+          "oklch(59% 0.010 43)",
+          "oklch(70% 0.010 43)",
+          "oklch(82% 0.010 43)",
+          "oklch(94% 0.010 43)"
+        ]
+      },
+      "answer-text": {
+        "role": "neutral",
+        "displayName": "Answer Text",
+        "tonalRamp": [
+          "oklch(15% 0.034 70)",
+          "oklch(26% 0.043 70)",
+          "oklch(37% 0.043 70)",
+          "oklch(48% 0.043 70)",
+          "oklch(59% 0.043 70)",
+          "oklch(70% 0.043 70)",
+          "oklch(82% 0.041 70)",
+          "oklch(94% 0.014 70)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Text",
+        "tonalRamp": [
+          "oklch(15% 0.034 72)",
+          "oklch(26% 0.041 72)",
+          "oklch(37% 0.041 72)",
+          "oklch(48% 0.041 72)",
+          "oklch(59% 0.041 72)",
+          "oklch(70% 0.041 72)",
+          "oklch(82% 0.041 72)",
+          "oklch(94% 0.014 72)"
+        ]
+      },
+      "text-muted": {
+        "role": "neutral",
+        "displayName": "Muted Text",
+        "tonalRamp": [
+          "oklch(15% 0.034 59)",
+          "oklch(26% 0.040 59)",
+          "oklch(37% 0.040 59)",
+          "oklch(48% 0.040 59)",
+          "oklch(59% 0.040 59)",
+          "oklch(70% 0.040 59)",
+          "oklch(82% 0.040 59)",
+          "oklch(94% 0.014 59)"
+        ]
+      },
+      "red-trait": {
+        "role": "secondary",
+        "displayName": "Trait Red",
+        "tonalRamp": [
+          "oklch(15% 0.034 26)",
+          "oklch(26% 0.059 26)",
+          "oklch(37% 0.080 26)",
+          "oklch(48% 0.080 26)",
+          "oklch(59% 0.080 26)",
+          "oklch(70% 0.069 26)",
+          "oklch(82% 0.041 26)",
+          "oklch(94% 0.014 26)"
+        ]
+      },
+      "blue-trait": {
+        "role": "secondary",
+        "displayName": "Trait Blue",
+        "tonalRamp": [
+          "oklch(15% 0.034 234)",
+          "oklch(26% 0.057 234)",
+          "oklch(37% 0.057 234)",
+          "oklch(48% 0.057 234)",
+          "oklch(59% 0.057 234)",
+          "oklch(70% 0.057 234)",
+          "oklch(82% 0.041 234)",
+          "oklch(94% 0.014 234)"
+        ]
+      },
+      "green-trait": {
+        "role": "secondary",
+        "displayName": "Trait Green",
+        "tonalRamp": [
+          "oklch(15% 0.034 153)",
+          "oklch(26% 0.054 153)",
+          "oklch(37% 0.054 153)",
+          "oklch(48% 0.054 153)",
+          "oklch(59% 0.054 153)",
+          "oklch(70% 0.054 153)",
+          "oklch(82% 0.041 153)",
+          "oklch(94% 0.014 153)"
+        ]
+      },
+      "running-gold": {
+        "role": "primary",
+        "displayName": "Running Gold",
+        "tonalRamp": [
+          "oklch(15% 0.034 81)",
+          "oklch(26% 0.059 81)",
+          "oklch(37% 0.080 81)",
+          "oklch(48% 0.080 81)",
+          "oklch(59% 0.080 81)",
+          "oklch(70% 0.069 81)",
+          "oklch(82% 0.041 81)",
+          "oklch(94% 0.014 81)"
+        ]
+      },
+      "focus-ring": {
+        "role": "primary",
+        "displayName": "Focus Ring",
+        "tonalRamp": [
+          "oklch(15% 0.034 67)",
+          "oklch(26% 0.059 67)",
+          "oklch(37% 0.061 67)",
+          "oklch(48% 0.061 67)",
+          "oklch(59% 0.061 67)",
+          "oklch(70% 0.061 67)",
+          "oklch(82% 0.041 67)",
+          "oklch(94% 0.014 67)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The Nocturna masthead."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "The landing-page invitation."
+      },
+      "question": {
+        "displayName": "Question",
+        "purpose": "Centered quiz prompt inside the frame."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Answer labels and readable copy."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Compact action text with slight tracking."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Progress and compact status information."
+      },
+      "match": {
+        "displayName": "Match",
+        "purpose": "The oversized result percentage."
+      }
+    },
+    "shadows": [
+      {
+        "name": "framed-panel",
+        "value": "0 18px 36px #0004",
+        "purpose": "The soft outer shadow behind the four-corner RPG frame."
+      }
+    ],
+    "motion": [
+      {
+        "name": "content-arrival",
+        "value": ".42s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Entrance of a new intro, question, or result screen."
+      },
+      {
+        "name": "button-state",
+        "value": ".2s ease",
+        "purpose": "Primary and secondary button color and lift transitions."
+      },
+      {
+        "name": "answer-state",
+        "value": ".18s ease",
+        "purpose": "Answer border, surface, and selection changes."
+      },
+      {
+        "name": "reduced-motion",
+        "value": ".01ms",
+        "purpose": "Animation and transition duration when reduced motion is requested."
+      },
+      {
+        "name": "selected-running-light",
+        "value": "2s linear infinite",
+        "purpose": "Four 2px brown-to-gold edge spans move by separate transform keyframes; top and bottom delay 1s, left and right 2s. Reduced motion keeps a static gold border."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "related-cards-stack",
+        "value": "800px"
+      },
+      {
+        "name": "single-column-layout",
+        "value": "650px"
+      },
+      {
+        "name": "compact-type",
+        "value": "390px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The advancing and sharing action: a copper rectangle with top and bottom rules and two rotated side ornaments. The light focus outline appears during keyboard navigation only.",
+      "html": "<button class=\"ds-button-primary\" type=\"button\">Începe aventura<span class=\"ds-button-corner ds-left\" aria-hidden=\"true\"></span><span class=\"ds-button-corner ds-right\" aria-hidden=\"true\"></span></button>",
+      "css": ".ds-button-primary { min-height:56px; padding:0 24px; display:inline-flex; align-items:center; justify-content:center; position:relative; border:0; border-top:1px solid #d5b28f; border-bottom:1px solid #d5b28f; border-radius:0; color:#1a1716; background:#bd9b7d; font:400 17px/1 MedievalSharp,Georgia,serif; letter-spacing:.025em; cursor:pointer; transition:background .2s ease,color .2s ease,border-color .2s ease,transform .2s ease; } .ds-button-primary:hover:not(:disabled) { color:#171719; background:#d8b496; border-color:#f0d0aa; transform:translateY(-2px); } .ds-button-primary:active:not(:disabled) { transform:translateY(0); } .ds-button-primary:focus-visible { outline:2px solid #e9c6a3; outline-offset:4px; } .ds-button-primary:disabled { opacity:.45; background:#6e6259; border-color:#807064; color:#dfd3c4; cursor:not-allowed; } .ds-button-primary .ds-button-corner { position:absolute; top:50%; width:1.45rem; height:1.45rem; border-bottom:1px solid #b89578; border-left:1px solid #b89578; pointer-events:none; transition:background .2s ease,border-color .2s ease; } .ds-button-primary .ds-button-corner::before,.ds-button-primary .ds-button-corner::after { content:\"\"; position:absolute; transition:background .2s ease,border-color .2s ease; } .ds-button-primary .ds-button-corner::before { top:calc(1rem - 1px); left:calc(-.4rem - 1px); width:.75rem; height:.75rem; border:1px solid #b89578; } .ds-button-primary .ds-button-corner::after { top:calc(1rem - 1px); left:-1px; width:.5rem; height:.5rem; background:#b89578; } .ds-button-primary .ds-button-corner.ds-left { left:-.75rem; transform:translateY(-50%) rotate(45deg); } .ds-button-primary .ds-button-corner.ds-right { right:-.75rem; transform:translateY(-50%) rotate(-135deg); } .ds-button-primary:hover .ds-button-corner,.ds-button-primary:hover .ds-button-corner::before { background:#d8b496; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "The back, restart, and edit action: a dark rectangle with the same top, bottom, and side ornaments. The light focus outline appears during keyboard navigation only.",
+      "html": "<button class=\"ds-button-secondary\" type=\"button\">Înapoi<span class=\"ds-button-corner ds-left\" aria-hidden=\"true\"></span><span class=\"ds-button-corner ds-right\" aria-hidden=\"true\"></span></button>",
+      "css": ".ds-button-secondary { min-height:56px; padding:0 24px; display:inline-flex; align-items:center; justify-content:center; position:relative; border:0; border-top:1px solid #b89578; border-bottom:1px solid #b89578; border-radius:0; color:#e7d2b9; background:#292321; font:400 17px/1 MedievalSharp,Georgia,serif; letter-spacing:.025em; cursor:pointer; transition:background .2s ease,border-color .2s ease; } .ds-button-secondary:hover { background:#3a2d28; border-color:#d1ad8d; } .ds-button-secondary:focus-visible { outline:2px solid #e9c6a3; outline-offset:4px; } .ds-button-secondary .ds-button-corner { position:absolute; top:50%; width:1.45rem; height:1.45rem; border-bottom:1px solid #b89578; border-left:1px solid #b89578; pointer-events:none; transition:background .2s ease,border-color .2s ease; } .ds-button-secondary .ds-button-corner::before,.ds-button-secondary .ds-button-corner::after { content:\"\"; position:absolute; transition:background .2s ease,border-color .2s ease; } .ds-button-secondary .ds-button-corner::before { top:calc(1rem - 1px); left:calc(-.4rem - 1px); width:.75rem; height:.75rem; border:1px solid #b89578; } .ds-button-secondary .ds-button-corner::after { top:calc(1rem - 1px); left:-1px; width:.5rem; height:.5rem; background:#b89578; } .ds-button-secondary .ds-button-corner.ds-left { left:-.75rem; transform:translateY(-50%) rotate(45deg); } .ds-button-secondary .ds-button-corner.ds-right { right:-.75rem; transform:translateY(-50%) rotate(-135deg); } .ds-button-secondary:hover .ds-button-corner,.ds-button-secondary:hover .ds-button-corner::before { background:#3a2d28; }"
+    },
+    {
+      "name": "RPG Frame",
+      "kind": "card",
+      "refersTo": "framed-panel",
+      "description": "A dark panel with a fine copper border and four square corners with extended lines.",
+      "html": "<section class=\"ds-frame\"><span class=\"ds-frame-corner ds-top ds-left\" aria-hidden=\"true\"></span><span class=\"ds-frame-corner ds-bottom ds-left\" aria-hidden=\"true\"></span><span class=\"ds-frame-corner ds-top ds-right\" aria-hidden=\"true\"></span><span class=\"ds-frame-corner ds-bottom ds-right\" aria-hidden=\"true\"></span>O poartă apare în mijlocul orașului.</section>",
+      "css": ".ds-frame { position:relative; padding:32px; border:1px solid #b89578; color:#e7d2b9; background:linear-gradient(145deg,#24201e,#1d1b1b 65%); box-shadow:0 18px 36px #0004; font:400 27px/1.2 MedievalSharp,Georgia,serif; } .ds-frame-corner { width:.5rem; height:.5rem; border:1px solid #b89578; position:absolute; z-index:3; pointer-events:none; } .ds-frame-corner::after,.ds-frame-corner::before { content:\"\"; position:absolute; } .ds-frame-corner::after { width:2rem; height:calc(1rem - 1px); } .ds-frame-corner::before { width:calc(1rem - 1px); height:2rem; } .ds-frame-corner.ds-left { left:-.5rem; } .ds-frame-corner.ds-left::after { left:calc(-2px + 1rem); border-left:1px solid #b89578; } .ds-frame-corner.ds-left::before { left:-1px; border-left:1px solid #b89578; } .ds-frame-corner.ds-right { right:-.5rem; } .ds-frame-corner.ds-right::after { right:calc(-2px + 1rem); border-right:1px solid #b89578; } .ds-frame-corner.ds-right::before { right:-1px; border-right:1px solid #b89578; } .ds-frame-corner.ds-top { top:-.5rem; } .ds-frame-corner.ds-top::after { top:-1px; border-top:1px solid #b89578; } .ds-frame-corner.ds-top::before { top:calc(-2px + 1rem); border-top:1px solid #b89578; } .ds-frame-corner.ds-bottom { bottom:-.5rem; } .ds-frame-corner.ds-bottom::after { bottom:-1px; border-bottom:1px solid #b89578; } .ds-frame-corner.ds-bottom::before { bottom:calc(-2px + 1rem); border-bottom:1px solid #b89578; }"
+    },
+    {
+      "name": "Answer Choice",
+      "kind": "input",
+      "refersTo": "answer",
+      "description": "A full-width square radio choice with a letter tile and warm border. Keyboard focus is outlined; pointer focus is not.",
+      "html": "<label class=\"ds-answer\"><input type=\"radio\" name=\"choice\"><span class=\"ds-answer-letter\">A</span><span class=\"ds-answer-text\">Intru primul. Cineva trebuie să afle ce e dincolo.</span></label>",
+      "css": ".ds-answer { min-height:70px; display:flex; align-items:center; gap:16px; padding:12px 18px; position:relative; border:1px solid #6c5548; color:#dfc8af; background:#252120; cursor:pointer; font:400 17px/1.45 MedievalSharp,Georgia,serif; transition:border-color .18s ease,background .18s ease,box-shadow .18s ease; } .ds-answer:hover { background:#332923; border-color:#c2a083; } .ds-answer:has(input:focus-visible) { outline:2px solid #e9c6a3; outline-offset:4px; } .ds-answer input { position:absolute; opacity:0; width:1px; height:1px; } .ds-answer-letter { width:35px; height:35px; flex:0 0 35px; display:grid; place-items:center; border:1px solid #806756; color:#c9a98c; background:#1b1a1a; } .ds-answer-text { flex:1; }"
+    },
+    {
+      "name": "Selected Answer",
+      "kind": "input",
+      "refersTo": "answer-selected",
+      "description": "A selected square answer with a translucent sheen and a clipped four-span brown-to-gold running border. Reduced motion shows a static gold border.",
+      "html": "<label class=\"ds-answer-selected\"><input type=\"radio\" name=\"choice\" checked><span class=\"ds-answer-selected-letter\">B</span><span class=\"ds-answer-selected-text\">Îi țin pe ceilalți la distanță.</span><span class=\"ds-answer-running-light\" aria-hidden=\"true\"><span></span><span></span><span></span><span></span></span></label>",
+      "css": ".ds-answer-selected { min-height:70px; display:flex; align-items:center; gap:16px; padding:12px 18px; position:relative; border:1px solid #856548; color:#dfc8af; background:#3b2e27; box-shadow:inset 0 0 0 1px #60452f; cursor:pointer; font:400 17px/1.45 MedievalSharp,Georgia,serif; } .ds-answer-selected::before { content:\"\"; position:absolute; z-index:1; top:2px; left:2px; bottom:2px; width:50%; background:rgba(255,255,255,.05); pointer-events:none; } .ds-answer-selected:has(input:focus-visible) { outline:2px solid #e9c6a3; outline-offset:4px; } .ds-answer-selected input { position:absolute; opacity:0; width:1px; height:1px; } .ds-answer-selected-letter { width:35px; height:35px; flex:0 0 35px; display:grid; place-items:center; border:1px solid #d2ad8b; color:#181718; background:#b99475; } .ds-answer-selected-text { flex:1; } .ds-answer-running-light { position:absolute; z-index:2; inset:0; display:block; overflow:hidden; pointer-events:none; } .ds-answer-running-light span { position:absolute; display:block; } .ds-answer-running-light span:nth-child(1) { top:0; left:0; width:100%; height:2px; background:linear-gradient(to right,#3b2e27,#dfb76f); animation:ds-running-light-top 2s linear infinite; animation-delay:1s; } .ds-answer-running-light span:nth-child(2) { top:0; right:0; width:2px; height:100%; background:linear-gradient(to bottom,#3b2e27,#dfb76f); animation:ds-running-light-right 2s linear infinite; animation-delay:2s; } .ds-answer-running-light span:nth-child(3) { bottom:0; left:0; width:100%; height:2px; background:linear-gradient(to left,#3b2e27,#dfb76f); animation:ds-running-light-bottom 2s linear infinite; animation-delay:1s; } .ds-answer-running-light span:nth-child(4) { top:0; left:0; width:2px; height:100%; background:linear-gradient(to top,#3b2e27,#dfb76f); animation:ds-running-light-left 2s linear infinite; animation-delay:2s; } @keyframes ds-running-light-top { 0% { transform:translateX(-100%); } 100% { transform:translateX(100%); } } @keyframes ds-running-light-right { 0% { transform:translateY(-100%); } 100% { transform:translateY(100%); } } @keyframes ds-running-light-bottom { 0% { transform:translateX(100%); } 100% { transform:translateX(-100%); } } @keyframes ds-running-light-left { 0% { transform:translateY(100%); } 100% { transform:translateY(-100%); } } @media (prefers-reduced-motion: reduce) { .ds-answer-running-light { display:none !important; } .ds-answer-selected { border-color:#f0d0aa; box-shadow:inset 0 0 0 1px #dfb58e; } }"
+    },
+    {
+      "name": "Quiz Progress",
+      "kind": "custom",
+      "refersTo": "quiz-progress",
+      "description": "A slim square-ended copper progress bar above the question frame.",
+      "html": "<progress class=\"ds-quiz-progress\" value=\"8\" max=\"22\" aria-label=\"8 din 22 întrebări finalizate\"></progress>",
+      "css": ".ds-quiz-progress { display:block; width:100%; height:10px; appearance:none; border:1px solid #58483f; border-radius:0; background:#2e2927; box-shadow:0 0 0 3px #201d1c; } .ds-quiz-progress::-webkit-progress-bar { background:#2e2927; } .ds-quiz-progress::-webkit-progress-value { background:#b48e6f; } .ds-quiz-progress::-moz-progress-bar { background:#b48e6f; }"
+    },
+    {
+      "name": "Match Percentage",
+      "kind": "custom",
+      "refersTo": "match-percentage",
+      "description": "An oversized copper number anchors the creature result story.",
+      "html": "<div class=\"ds-match\"><strong>86%</strong><span>potrivire</span></div>",
+      "css": ".ds-match { display:flex; align-items:baseline; gap:17px; margin:17px 0 24px; color:#bda187; font-family:MedievalSharp,Georgia,serif; } .ds-match strong { font-size:clamp(63px,7vw,98px); line-height:1; font-weight:400; color:#e2bb95; } .ds-match span { font-size:17px; }"
+    },
+    {
+      "name": "Related Creature Card",
+      "kind": "card",
+      "refersTo": "related-card",
+      "description": "A compact four-corner result frame with a portrait slot, creature name, and match value.",
+      "html": "<div class=\"ds-related-card\"><span class=\"ds-related-corner ds-top ds-left\" aria-hidden=\"true\"></span><span class=\"ds-related-corner ds-bottom ds-left\" aria-hidden=\"true\"></span><span class=\"ds-related-corner ds-top ds-right\" aria-hidden=\"true\"></span><span class=\"ds-related-corner ds-bottom ds-right\" aria-hidden=\"true\"></span><div class=\"ds-related-art\" role=\"img\" aria-label=\"Portret de creatură\"></div><div><span>Spirit al pădurii</span><h3>Cerbul de Mușchi</h3><strong>86% potrivire</strong></div></div>",
+      "css": ".ds-related-card { position:relative; display:flex; align-items:center; gap:15px; min-width:0; padding:10px; border:1px solid #b89578; color:#e7d2b9; background:linear-gradient(145deg,#24201e,#1d1b1b 65%); box-shadow:0 18px 36px #0004; font-family:MedievalSharp,Georgia,serif; } .ds-related-art { width:90px; height:90px; flex:0 0 90px; background:#171719; } .ds-related-card span { color:#b89c85; font-size:13px; } .ds-related-card h3 { color:#e3c7a9; font-size:20px; font-weight:400; line-height:1.1; margin:6px 0; } .ds-related-card strong { color:#c9a687; font-size:14px; font-weight:400; } .ds-related-corner { width:.5rem; height:.5rem; border:1px solid #b89578; position:absolute; z-index:3; pointer-events:none; } .ds-related-corner::after,.ds-related-corner::before { content:\"\"; position:absolute; } .ds-related-corner::after { width:2rem; height:calc(1rem - 1px); } .ds-related-corner::before { width:calc(1rem - 1px); height:2rem; } .ds-related-corner.ds-left { left:-.5rem; } .ds-related-corner.ds-left::after { left:calc(-2px + 1rem); border-left:1px solid #b89578; } .ds-related-corner.ds-left::before { left:-1px; border-left:1px solid #b89578; } .ds-related-corner.ds-right { right:-.5rem; } .ds-related-corner.ds-right::after { right:calc(-2px + 1rem); border-right:1px solid #b89578; } .ds-related-corner.ds-right::before { right:-1px; border-right:1px solid #b89578; } .ds-related-corner.ds-top { top:-.5rem; } .ds-related-corner.ds-top::after { top:-1px; border-top:1px solid #b89578; } .ds-related-corner.ds-top::before { top:calc(-2px + 1rem); border-top:1px solid #b89578; } .ds-related-corner.ds-bottom { bottom:-.5rem; } .ds-related-corner.ds-bottom::after { bottom:-1px; border-bottom:1px solid #b89578; } .ds-related-corner.ds-bottom::before { bottom:calc(-2px + 1rem); border-bottom:1px solid #b89578; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Midnight Bestiary",
+    "overview": "Nocturna feels like opening a small illustrated fantasy bestiary after dark. Original creature portraits provide the spectacle; the interface acts as a restrained charcoal and copper frame around each choice and revelation. The visual language is game-like and ceremonial, but the interaction stays direct enough for a seven-minute quiz.\n\nThe same world spans the landing page, one-question-at-a-time quiz, and result. Fine copper borders, four extended square corners on each major frame, heraldic icons, and MedievalSharp connect those screens. Dense ornament lives at the edges and around milestones, leaving answer text and result stories easy to scan. A selected answer carries the only continuous animation: four clipped, gold-tipped gradients travel along its edges.",
+    "keyCharacteristics": [
+      "Original retro-fantasy creature portraits are the focal imagery.",
+      "Charcoal surfaces and warm copper strokes establish the dark RPG mood.",
+      "Four-corner copper frames repeat around portraits, quiz panels, and result panels.",
+      "A selected answer shows a moving gold edge light, with a static border for reduced motion.",
+      "Responsive layouts keep the answer path and result reading order simple."
+    ],
+    "rules": [
+      {
+        "name": "The Copper Hierarchy Rule",
+        "body": "Use copper for the primary action and decisive details; let muted text and frame edges handle supporting information.",
+        "section": "colors"
+      },
+      {
+        "name": "The One-Face Rule",
+        "body": "Keep the fantasy face across headings, choices, and controls; use size and spacing to distinguish their jobs.",
+        "section": "typography"
+      },
+      {
+        "name": "The Single Decision Rule",
+        "body": "Present one question at a time in one central frame; keep the five answers in a consistent vertical scan path.",
+        "section": "layout"
+      },
+      {
+        "name": "The Fine Frame Rule",
+        "body": "Place four separate square-and-line ornaments around important surfaces; keep their strokes thin and the surrounding charcoal space open.",
+        "section": "shapes"
+      },
+      {
+        "name": "The Input Modality Rule",
+        "body": "Reveal focus outlines after `keydown` and hide them after `pointerdown`; selected-answer light remains a separate state.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Do let the creature art remain the visual focal point and keep its frame thin.",
+      "Do use the copper primary action consistently for advancing or sharing.",
+      "Do preserve a single-column answer list and distinct selected, disabled, hover, and keyboard-only focus states.",
+      "Do keep the selected-answer edge lights as the only continuous motion, and replace them with a static bright border under `prefers-reduced-motion`."
+    ],
+    "donts": [
+      "Don't introduce rounded card shapes into the square-framed quiz and result surfaces.",
+      "Don't use the red, blue, or green trait colors as competing page-level accents.",
+      "Don't crowd the ornate frame with extra controls or decorative copy around the answer path."
+    ]
+  }
+}
