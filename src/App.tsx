@@ -96,7 +96,7 @@ function Portrait({
       aria-label={label}
       className={`portrait ${className}`}
       style={{
-        backgroundImage: `url('/creatures-atlas${index < 12 ? "" : "-2"}.png')`,
+        backgroundImage: `url('${import.meta.env.BASE_URL}creatures-atlas${index < 12 ? "" : "-2"}.png')`,
         backgroundPosition: `${((cell % 4) * 100) / 3}% ${Math.floor(cell / 4) * 50}%`,
       }}
     />
